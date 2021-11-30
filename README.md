@@ -1,6 +1,7 @@
 # FAIG
 
 ~~Codes will be released at the end of November, 2021.~~
+
 The codes have been sorted out. Now they are under the internal review process. It may take about two weeks more. Sorry for the inconvenience.
 
 The official PyTorch codes for **NeurIPS 2021 (Spotlight): Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution**.
