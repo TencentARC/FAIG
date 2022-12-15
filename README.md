@@ -8,7 +8,7 @@ We propose a new diagnostic tool – Filter Attribution method based on Integral
 ### :book: Finding Discriminative Filters for Specific Degradations in Blind Super-Resolution
 
 > [[Paper](https://openreview.net/pdf?id=az0BBDjDvwD)] &emsp; [Project Page] &emsp; [[Video](https://recorder-v3.slideslive.com/?share=52246&s=fe236495-125a-44d7-9475-0907e5bf4e6e)] &emsp; [B站] &emsp; [[Poster](https://drive.google.com/file/d/1nWxje2HWXAibreJuzp2NM4PnsMUviaHE/view?usp=sharing)] &emsp; [[PPT slides](https://docs.google.com/presentation/d/1DwO8cKCuveIpflzijPpWjyndmZqKLQhI/edit?usp=sharing&ouid=113023682396793851067&rtpof=true&sd=true)]<br>
-> [Liangbin Xie](https://www.researchgate.net/profile/Liangbin-Xie), [Xintao Wang](https://xinntao.github.io/), [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ), [Zhongang Qi](https://scholar.google.com/citations?user=zJvrrusAAAAJ&hl=en), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) <br>
+> [Liangbin Xie](https://liangbinxie.github.io/), [Xintao Wang](https://xinntao.github.io/), [Chao Dong](https://scholar.google.com.hk/citations?user=OSDCB0UAAAAJ), [Zhongang Qi](https://scholar.google.com/citations?user=zJvrrusAAAAJ&hl=en), [Ying Shan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=en) <br>
 > Tencent ARC Lab; Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 
 <p align="center">
